@@ -14,4 +14,20 @@ section#redes-sociais {
   position: relative;
   top: 80px;
 }
+section#telefone {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    display: -webkit-flex;
+    display: flex;
+    min-height: 95vh;
+
+    height: 627px;
+    width: 311px;
+
+    background: url('../imagens/frame-iphone.png');
+    background-repeat: no-repeat;
+}
 }
