@@ -24,4 +24,4 @@ Este projeto é uma simulação de um perfil de rede social, desenvolvido utiliz
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/usuario/simulador-perfil-rede-social.git
+   git clone https://github.com/pablog-7/projeto-sociais.git
